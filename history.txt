@@ -1,0 +1,230 @@
+    1  ls
+    2  cd
+    3  textstudio
+    4  gtypist
+    5  ls
+    6  cd documents
+    7  ls
+    8  cd Documents
+    9  mkdir pythoncourse_1
+   10  cd pythoncourse_1
+   11  jupter notebook
+   12  jupyter notebook
+   13  jupter notebook
+   14  jupyter notebook
+   15  jupyter notebook lecture_2.ipynb
+   16  jupyter notebook first code.ipynb
+   17  jupyter notebook Untitled.ipynb
+   18  jupyter notebook lecture_1.ipynb
+   19  jupyter notebook lecture_2.ipynb
+   20  jupter notebook lecture_1.ipynb
+   21  jupyter notebook lecture_1.ipynb
+   22  jupyter notebook untitled Document1.py
+   23  python3facto.py
+   24  pyhton3 facto.py
+   25  ls
+   26  pfftj assignment1 of latex(copy).pdf burst
+   27  pdftk assignment burst
+   28  pdftk assignment1 bust
+   29  pdftk japhet_mugabo_MPS2 burst
+   30  pdftk --help
+   31  pdftk ja.pdf burst
+   32  pdftk jo.pdf burst
+   33  pdftk assignment.pdf burst
+   34  pdfth __help
+   35  pdftk __help
+   36  ls
+   37  1s_a
+   38  cd document
+   39  cd MPS2
+   40  find
+   41  ls _a
+   42  ls -1
+   43  ls -a
+   44  ls -1h
+   45  ls
+   46  cd
+   47  cd japhet_mugabo_ICL2
+   48  man 
+   49  man japhet_mugabo_ICL2
+   50  du -sh
+   51  cd japhet_mugabo_ICL2
+   52  ls -1h
+   53  cd
+   54  ls
+   55  locate me
+   56  locate MPS2
+   57  +
+   58  -
+   59  =
+   60  '='
+   61  sleep
+   62  jobs
+   63  fg
+   64  ex
+   65  gedit
+   66  ls
+   67  ls
+   68  cd Desktop
+   69  ls
+   70  python3 chaos.py
+   71  ls
+   72  cd Documents
+   73  ls
+   74  cd Desktop
+   75  ls
+   76  cd codes
+   77  ls
+   78  python3 Chaos
+   79  cd Desktop
+   80  ls
+   81  cd codes
+   82  ls
+   83  python3 Chaos
+   84  cd Chaos
+   85  ls
+   86  python3 chaos.py
+   87  ls
+   88  python3 chaos.py
+   89  ls
+   90  python3 chaos.py
+   91  spyder
+   92  gedit
+   93  python3 bebe.py
+   94  gedit
+   95  ls
+   96  cd Documents
+   97  ls
+   98  cd ASSIGNMENT 1OF LATEX
+   99  LS
+  100  ls
+  101  pyhon3 bebe.py
+  102  python3 bebe.py
+  103  gedit
+  104  ls
+  105  cd Videos
+  106  ls
+  107  python3 qwiz.py
+  108  cd Videos
+  109  python3 qwiz.py
+  110  python3 chaos.py
+  111  python3 Chaos.py
+  112  python3 qwiz.py
+  113  ls
+  114  pwd
+  115  ls
+  116  pwd
+  117  ls-F
+  118  LS-f
+  119  pwd
+  120  --help
+  121  ls--help
+  122  ls --help
+  123  q
+  124  man pwd
+  125  ls -q
+  126  ls -c
+  127  ls -w
+  128  ls --help
+  129  ls -t
+  130  ls -k
+  131  ls -g
+  132  ls --help
+  133  ls -a
+  134  clear
+  135  cd des
+  136  cd Des
+  137  clear
+  138  cd ..
+  139  ls --F -a
+  140  cd Des
+  141  cd --F -a
+  142  cd Desketop
+  143  cd
+  144  ls
+  145  cd Desktop
+  146  cd codes
+  147  cd shell-lesson-data
+  148  cd..
+  149  ls -F
+  150  ls -F -a
+  151  clear
+  152  pwd
+  153  ls
+  154  mkdir tody course
+  155  pwd
+  156  cd
+  157  mkdir c_d
+  158  ls
+  159  clear
+  160  pwd
+  161  cd
+  162  ls
+  163  cd Downloads
+  164  ls
+  165  clear
+  166  ls
+  167  cd sh
+  168  clear
+  169  ls
+  170  cd shell-lesson-data
+  171  ls
+  172  cd exercise-data
+  173  ls
+  174  cd alkanes
+  175  ls
+  176  nano middle.sh
+  177  bush middle.sh octane.pdb 
+  178  bash middle.sh octane.pdb 
+  179  nano
+  180  nano middle.sh
+  181  bash middle.sh octane.pdb 25 5
+  182  bash middle.sh octane.pdb 25 6
+  183  nano middle.sh
+  184  for item in in ..; do bash middle.sh $item 8 2; done
+  185  ls
+  186  ls *.pdb
+  187  for item in *.pdb; do bash middle.sh $item 8 2; done
+  188  bash middle.sh octane.pdb 8 2
+  189* bash middle.sh alkanes.pdb 
+  190  bash middle.sh octane.pdb -n 8
+  191  for item in *.pdb; for item in *.pdb; do bash middle.sh $item 8 2; done
+  192  head -n 8 propane.pdb 
+  193  head propane.pdb -n 20
+  194  head -n 20 propane.pdb 
+  195  clear
+  196  mkdir
+  197  cd
+  198  clear
+  199  git config --global user.name ladislasnkurunziza
+  200  git config --global user.name ladislasnkurunziza17@gmail.com
+  201  cd
+  202  ls
+  203  cd Desktop
+  204  cd planets
+  205  mkdir
+  206  git config --global init.defaultBranch main
+  207  git status
+  208  git init
+  209  mkdir planets
+  210  rmdir planets
+  211  cd planets
+  212  cd
+  213  cd Desktop/
+  214  cd planetsswcarpentry.github.io/git-noviceswcarpentry.github.io/git-noviceswcarpentry.github.io/git-novice
+  215  mkdir planets
+  216  cd planets
+  217  git init
+  218  ls -a
+  219  git status
+  220  nano mars.txt
+  221  ls
+  222  cat mars.text
+  223  cat mars.txt
+  224  git status
+  225  git add mars.txt
+  226  git status
+  227  git commit -m "started mars notes"
+  228  git status
+  229  history
+  230  history > history.txt
